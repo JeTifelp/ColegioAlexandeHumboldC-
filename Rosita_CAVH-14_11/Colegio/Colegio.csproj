@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{ACA91C95-0C1F-42AE-8728-B1417F5BD8DB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Colegio</RootNamespace>
+    <AssemblyName>Colegio</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alumn21.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumn21.Designer.cs">
+      <DependentUpon>Alumn21.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumno20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alumno20.Designer.cs">
+      <DependentUpon>Alumno20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumnooo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Alumnooo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CAVH3DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CAVH3DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CONEXION\ManejadorDeDatos.cs" />
+    <Compile Include="DATOS\ALUMNO.cs" />
+    <Compile Include="DATOS\APODERADO.cs" />
+    <Compile Include="DATOS\BITACORA.cs" />
+    <Compile Include="DATOS\CARGO.cs" />
+    <Compile Include="DATOS\CERTIFICADO_NACIMIENTO.cs" />
+    <Compile Include="DATOS\CONSULTA.cs" />
+    <Compile Include="DATOS\CURSO.cs" />
+    <Compile Include="DATOS\DETALLES_DOCENTE.cs" />
+    <Compile Include="DATOS\DICTA.cs" />
+    <Compile Include="DATOS\DOCENTE.cs" />
+    <Compile Include="DATOS\EMPLEADO.cs" />
+    <Compile Include="DATOS\ESPECIALIDAD.cs" />
+    <Compile Include="DATOS\FOTOGRAFIA.cs" />
+    <Compile Include="DATOS\INSCRIPCION.cs" />
+    <Compile Include="DATOS\LIBRETA.cs" />
+    <Compile Include="DATOS\MATERIA.cs" />
+    <Compile Include="DATOS\MATERIA_CURSO.cs" />
+    <Compile Include="DATOS\NOTAS.cs" />
+    <Compile Include="DATOS\PARALELOS.cs" />
+    <Compile Include="DATOS\SEGURO.cs" />
+    <Compile Include="DATOS\TIENE.cs" />
+    <Compile Include="DATOS\TRIMESTRE.cs" />
+    <Compile Include="Docente20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Docente20.Designer.cs">
+      <DependentUpon>Docente20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Docente200.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Docente200.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="NEGOCIO\N_APODERADO.cs" />
+    <Compile Include="NEGOCIO\N_BITACORA.cs" />
+    <Compile Include="NEGOCIO\N_CARGO.cs" />
+    <Compile Include="NEGOCIO\N_CERTIFICADO.cs" />
+    <Compile Include="NEGOCIO\N_CURSO.cs" />
+    <Compile Include="NEGOCIO\N_DOCENTE.cs" />
+    <Compile Include="NEGOCIO\N_EMPLEADO.cs" />
+    <Compile Include="NEGOCIO\N_ESPECIALIDAD.cs" />
+    <Compile Include="NEGOCIO\N_ALUMNO.cs" />
+    <Compile Include="NEGOCIO\N_FOTOGRAFIA.cs" />
+    <Compile Include="NEGOCIO\N_INSCRIPCION.cs" />
+    <Compile Include="NEGOCIO\N_KARDEX.cs" />
+    <Compile Include="NEGOCIO\N_LIBRETA.cs" />
+    <Compile Include="NEGOCIO\N_MATERIA.cs" />
+    <Compile Include="NEGOCIO\N_NOTAS.cs" />
+    <Compile Include="NEGOCIO\N_PARALELOS.cs" />
+    <Compile Include="NEGOCIO\N_RUDE.cs" />
+    <Compile Include="DATOS\GESTION.cs" />
+    <Compile Include="DATOS\KARDEX.cs" />
+    <Compile Include="DATOS\LUGARDENACIMIENTO.cs" />
+    <Compile Include="DATOS\NIVEL.cs" />
+    <Compile Include="DATOS\RUDE.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPRESENTACION.cs" />
+    <Compile Include="NEGOCIO\N_GESTION.cs" />
+    <Compile Include="NEGOCIO\N_LUGARDENACIMIENTO.cs" />
+    <Compile Include="NEGOCIO\N_NIVEL.cs" />
+    <Compile Include="NEGOCIO\N_SEGURO.cs" />
+    <Compile Include="NEGOCIO\N_TRIMESTRE.cs" />
+    <Compile Include="NEGOCIO\Usuario.cs" />
+    <Compile Include="PRESENTACION\AUTENTIFICACION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\AUTENTIFICACION.Designer.cs">
+      <DependentUpon>AUTENTIFICACION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormALUMNO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormALUMNO.Designer.cs">
+      <DependentUpon>FormALUMNO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormAPODERADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormAPODERADO.Designer.cs">
+      <DependentUpon>FormAPODERADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormCERTIFICADO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormCERTIFICADO.Designer.cs">
+      <DependentUpon>FormCERTIFICADO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormCURSO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormCURSO.Designer.cs">
+      <DependentUpon>FormCURSO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormDOCENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormDOCENTE.Designer.cs">
+      <DependentUpon>FormDOCENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormESPECIALIDAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormESPECIALIDAD.Designer.cs">
+      <DependentUpon>FormESPECIALIDAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormFOTOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormFOTOS.Designer.cs">
+      <DependentUpon>FormFOTOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormGESTION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormGESTION.Designer.cs">
+      <DependentUpon>FormGESTION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormHORARIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormHORARIO.Designer.cs">
+      <DependentUpon>FormHORARIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormINSCRIPCION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormINSCRIPCION.Designer.cs">
+      <DependentUpon>FormINSCRIPCION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\formKARDEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\formKARDEX.Designer.cs">
+      <DependentUpon>formKARDEX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\formLIBRETA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\formLIBRETA.Designer.cs">
+      <DependentUpon>formLIBRETA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormLUGARDENACIMIENTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormLUGARDENACIMIENTO.Designer.cs">
+      <DependentUpon>FormLUGARDENACIMIENTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormMATERIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormMATERIA.Designer.cs">
+      <DependentUpon>FormMATERIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormNIVEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormNIVEL.Designer.cs">
+      <DependentUpon>FormNIVEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormNOTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormNOTAS.Designer.cs">
+      <DependentUpon>FormNOTAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormRUDE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormRUDE.Designer.cs">
+      <DependentUpon>FormRUDE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormSEGURO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormSEGURO.Designer.cs">
+      <DependentUpon>FormSEGURO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\formTRIMESTRAL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\formTRIMESTRAL.Designer.cs">
+      <DependentUpon>formTRIMESTRAL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\FormVERIFICAR-CUPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\FormVERIFICAR-CUPO.Designer.cs">
+      <DependentUpon>FormVERIFICAR-CUPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\Form_INSCRIBIR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\Form_INSCRIBIR.Designer.cs">
+      <DependentUpon>Form_INSCRIBIR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\INSCRIPCION-2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\INSCRIPCION-2.Designer.cs">
+      <DependentUpon>INSCRIPCION-2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\PARALELO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\PARALELO.Designer.cs">
+      <DependentUpon>PARALELO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\PRINCIPAL-CAVH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\PRINCIPAL-CAVH.Designer.cs">
+      <DependentUpon>PRINCIPAL-CAVH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PRESENTACION\REGISTRO_USUARIOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PRESENTACION\REGISTRO_USUARIOS.Designer.cs">
+      <DependentUpon>REGISTRO_USUARIOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Alumn21.resx">
+      <DependentUpon>Alumn21.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumno20.resx">
+      <DependentUpon>Alumno20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Alumnooo.rdlc" />
+    <EmbeddedResource Include="Docente20.rdlc" />
+    <EmbeddedResource Include="Docente20.resx">
+      <DependentUpon>Docente20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="docente2000.rdlc" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\AUTENTIFICACION.resx">
+      <DependentUpon>AUTENTIFICACION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormALUMNO.resx">
+      <DependentUpon>FormALUMNO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormAPODERADO.resx">
+      <DependentUpon>FormAPODERADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormCERTIFICADO.resx">
+      <DependentUpon>FormCERTIFICADO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormCURSO.resx">
+      <DependentUpon>FormCURSO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormDOCENTE.resx">
+      <DependentUpon>FormDOCENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormESPECIALIDAD.resx">
+      <DependentUpon>FormESPECIALIDAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormGESTION.resx">
+      <DependentUpon>FormGESTION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormHORARIO.resx">
+      <DependentUpon>FormHORARIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormINSCRIPCION.resx">
+      <DependentUpon>FormINSCRIPCION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\formKARDEX.resx">
+      <DependentUpon>formKARDEX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\formLIBRETA.resx">
+      <DependentUpon>formLIBRETA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormLUGARDENACIMIENTO.resx">
+      <DependentUpon>FormLUGARDENACIMIENTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormMATERIA.resx">
+      <DependentUpon>FormMATERIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormNIVEL.resx">
+      <DependentUpon>FormNIVEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormNOTAS.resx">
+      <DependentUpon>FormNOTAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormRUDE.resx">
+      <DependentUpon>FormRUDE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormSEGURO.resx">
+      <DependentUpon>FormSEGURO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\formTRIMESTRAL.resx">
+      <DependentUpon>formTRIMESTRAL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\FormVERIFICAR-CUPO.resx">
+      <DependentUpon>FormVERIFICAR-CUPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\Form_inscribir.resx">
+      <DependentUpon>Form_INSCRIBIR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\INSCRIPCION-2.resx">
+      <DependentUpon>INSCRIPCION-2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\PARALELO.resx">
+      <DependentUpon>PARALELO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\PRINCIPAL-CAVH.resx">
+      <DependentUpon>PRINCIPAL-CAVH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRESENTACION\REGISTRO_USUARIOS.resx">
+      <DependentUpon>REGISTRO_USUARIOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Alumnooo.xsc">
+      <DependentUpon>Alumnooo.xsd</DependentUpon>
+    </None>
+    <None Include="Alumnooo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Alumnooo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Alumnooo.xss">
+      <DependentUpon>Alumnooo.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="CAVH3DataSet.xsc">
+      <DependentUpon>CAVH3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet.xss">
+      <DependentUpon>CAVH3DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet1.xsc">
+      <DependentUpon>CAVH3DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet1.xss">
+      <DependentUpon>CAVH3DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet2.xsc">
+      <DependentUpon>CAVH3DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet2.xss">
+      <DependentUpon>CAVH3DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet3.xsc">
+      <DependentUpon>CAVH3DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet3.xss">
+      <DependentUpon>CAVH3DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet4.xsc">
+      <DependentUpon>CAVH3DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet4.xss">
+      <DependentUpon>CAVH3DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet5.xsc">
+      <DependentUpon>CAVH3DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet5.xss">
+      <DependentUpon>CAVH3DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet6.xsc">
+      <DependentUpon>CAVH3DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="CAVH3DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CAVH3DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CAVH3DataSet6.xss">
+      <DependentUpon>CAVH3DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Docente200.xsc">
+      <DependentUpon>Docente200.xsd</DependentUpon>
+    </None>
+    <None Include="Docente200.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Docente200.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Docente200.xss">
+      <DependentUpon>Docente200.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cola.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1381810631_73225.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1381811244_48055.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1381810697_22560.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\COLEGIO.png" />
+    <None Include="Resources\REPORTE.png" />
+    <None Include="Resources\NOTA.png" />
+    <None Include="Resources\1381810779_73221 - copia.bmp" />
+    <Content Include="Resources\1381810779_73221.ico" />
+    <None Include="Resources\1381810779_732211.ico" />
+    <Content Include="Resources\1381811072_34608.ico" />
+    <None Include="Resources\CAVH.png" />
+    <None Include="Resources\1381811072_346081.ico" />
+    <Content Include="Resources\1381811173_87083.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

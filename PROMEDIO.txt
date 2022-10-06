@@ -1,0 +1,22 @@
+public DataTable PROMEDIO()
+        {
+            DataTable table = new DataTable();
+            cnx.AbrirConexion();
+          //  String sql = "SELECT AVG(CALIFICACION) FROM NOTAS N  WHERE N.ID_ALUMNO='"+ ID_ALUMNO + "N.CURSO='"+ CURSO+"N.ID_TRIMESTRE='"+ID_TRIMESTRE+"N.MATERIA='"+MATERIA+ "'";
+                          
+                   /*       "SELECT  AVG (CALIFICACION)
+                          FROM NOTAS N
+                          WHERE N.ID_ALUMNO='AL001' AND N.CURSO='1PRIM' AND N.ID_TRIMESTRE= 'TRI01' AND N.MATERIA='MAT' ";
+                    * */
+
+          //  SqlDataReader dr = cnx.EjecutarConsulta(sql);// maneja todo los datos de las tablas ya sean 1,2,3...
+          /*  int d = dr.FieldCount;
+            table.Load(dr);   //  lo pasa un datareader  a un datatable para mostrar;     
+            dr.Close();
+            cnx.CerrarConexion();
+            /* for (int i = 0; i < table.Rows.Count; i++)
+             {
+              table.DataSet.   
+             }*/
+          //  return table;
+     //   }

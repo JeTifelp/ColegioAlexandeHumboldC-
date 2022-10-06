@@ -1,0 +1,513 @@
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\bin\Debug\Colegio.exe.config
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\bin\Debug\Colegio.exe
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\bin\Debug\Colegio.pdb
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\Colegio.Form1.resources
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\Colegio.exe
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\Colegio.pdb
+c:\documents and settings\david\mis documentos\visual studio 2010\Projects\Colegio\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod23232\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_Eliod33333333333333333333\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\Users\ELIOD\Desktop\ColegioCAVH_ElioD4444444444\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+K:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe.config
+K:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.exe
+K:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.pdb
+L:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe.config
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.exe
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.pdb
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Form1.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.csproj.GenerateResource.Cache
+L:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe
+L:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.pdb
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+L:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe.config
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.exe
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.pdb
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Form1.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe
+F:\ \ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.pdb
+F:\ \ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe.config
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.exe
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.pdb
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ColegioCAVH_ElioD5555555\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.exe
+C:\ColegioCAVH_ElioD5555555\Colegio\bin\Debug\Colegio.pdb
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\bin\Debug\Colegio.exe
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\bin\Debug\Colegio.pdb
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA1\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA1\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\minedu\Desktop\ColegioCAVH_ROSITA1\Colegio\obj\x86\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\bin\Debug\Colegio.exe.config
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.pdb
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\bin\Debug\Colegio.exe.config
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.exe
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\bin\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\bin\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CARPETA COMPARTIDA\Rosita_CAVH\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\bin\Debug\Colegio.exe
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\bin\Debug\Colegio.pdb
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.Form1.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Minedu-pc\carpeta compartida\Rosita_CAVH\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+C:\CARPETA COMPARTIDA\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.csprojResolveAssemblyReference.cache
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.FormListadoDeAlumn.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.FormListadoDeAlumnos.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.csproj.GenerateResource.Cache
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.cache
+\\Minedu-pc\carpeta compartida\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.compiled
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.cache
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.compiled
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumn21.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumno20.resources
+C:\CARPETA COMPARTIDA\TODO-CAVH-14-11PRESENTACION\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Docente20.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumn21.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumno20.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Docente20.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.cache
+C:\Users\ELIOD\Desktop\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.compiled
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.pdb
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumn21.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumno20.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Docente20.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.cache
+D:\UniversidadNO ELIMINAR\Sistema De Informacion Eliot\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.compiled
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\bin\Debug\Colegio.exe.config
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.exe
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.pdb
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.csprojResolveAssemblyReference.cache
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumn21.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Alumno20.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Docente20.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Form1.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.AUTENTIFICACION.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormALUMNO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormAPODERADO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCERTIFICADO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormCURSO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormDOCENTE.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormESPECIALIDAD.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormGESTION.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormHORARIO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormINSCRIPCION.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formKARDEX.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formLIBRETA.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormLUGARDENACIMIENTO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormMATERIA.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNIVEL.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormNOTAS.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormRUDE.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormSEGURO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.formTRIMESTRAL.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FormVERIFICAR_CUPO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.Form_INSCRIBIR.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.FORM_realizar_inscripcion.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PARALELO.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.PRINCIPAL_CAVH.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.PRESENTACION.REGISTRO_USUARIOS.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.Properties.Resources.resources
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\Colegio.csproj.GenerateResource.Cache
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.cache
+E:\Proyectos\TODO-CAVH_01_12_PRESENTACIONUltimo\Rosita_CAVH-14_11\Colegio\obj\x86\Debug\RdlCompile.compiled
